@@ -1,16 +1,17 @@
 {
-  "name": "graphql-server",
-  "version": "1.0.0",
-  "description": "Simple GraphQL Server",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Alexander Diendorfer",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.4",
-    "express-graphql": "^0.7.1",
-    "nodemon": "^1.18.6"
-  }
+	"name": "graphql-server",
+	"version": "1.0.0",
+	"description": "Simple GraphQL Server",
+	"main": "server.js",
+	"scripts": {
+		"dev:server": "nodemon server.js"
+	},
+	"author": "Alexander Diendorfer",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.16.4",
+		"express-graphql": "^0.7.1",
+		"graphql": "^14.0.2",
+		"nodemon": "^1.18.6"
+	}
 }
