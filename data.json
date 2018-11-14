@@ -7,12 +7,6 @@
       "age": 35
     },
     {
-      "id": "2",
-      "name": "Steve Smith",
-      "email": "steve@gmail.com",
-      "age": 50
-    },
-    {
       "id": "3",
       "name": "Sara Williams",
       "email": "sara@gmail.com",
@@ -29,6 +23,12 @@
       "email": "harry@gmail.com",
       "age": 34,
       "id": "Y~8l3SF"
+    },
+    {
+      "name": "Bruce Wayne",
+      "email": "bruce@gmail.com",
+      "age": 33,
+      "id": "Unrc3_P"
     }
   ]
 }
